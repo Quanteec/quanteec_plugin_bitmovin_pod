@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pG6yFywIBE9trkIhmDADlFJzvtc=
+		yeVB/I+H83jnBoUurkt3gMa9cy4=
 		</data>
 		<key>Modules/QuanteecPluginBitmovin.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		ZDvj8uLvwmef/Pf+tqCZ0fLhjIs=
+		pbgvb8dcAljFCyzUoI6fNzGFfvQ=
 		</data>
 		<key>Modules/QuanteecPluginBitmovin.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		PAhBofDB5Lu2XQsrj/CzwlXqpsg=
+		83T1kZHjCQg2tzoEQgwaQ4Aj+eU=
 		</data>
 		<key>Modules/QuanteecPluginBitmovin.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/QuanteecPluginBitmovin.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		lnLyJbnX4caYLf/ZnH63gf+2MTQ=
+		TAPLSPTXPKjaEqvhnpXEz6x+vVQ=
 		</data>
 		<key>Modules/QuanteecPluginBitmovin.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xQF2k7h0WM74wMVQwQyhwfKOuwE=
+		GLeSrt9gPNqS7k75GZ/aBmgbNxc=
 		</data>
 		<key>Modules/QuanteecPluginBitmovin.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/QuanteecPluginBitmovin.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		4VIUoxX2xT8lRSQRRPoz4+joM2E=
+		dZv27b4F6NK3zneWd2ynpQzm2SQ=
 		</data>
 		<key>Modules/QuanteecPluginBitmovin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ufK6/zCNQolYqGJ78BabHoA0Wn8=
+		6RzncyIafm4I3V4ptJqFMS3WuQI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -62,14 +62,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JXkqT5CTeEnllFu8ofUjcqKQmLCaEowI6NeeU+x8SbU=
+			4MHWDQb+dZguvi0Xd+0SejAKRpkt6NWXRzZuPAedlYw=
 			</data>
 		</dict>
 		<key>Modules/QuanteecPluginBitmovin.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			acS6nn4MkwzBBG0cstJ5997wd37ogOVC6BuRa2ewDYE=
+			usvIDHxIfn2auvXTaxKQGVtp5nN3fE6JpLQeKJQtPnM=
 			</data>
 		</dict>
 		<key>Modules/QuanteecPluginBitmovin.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -83,14 +83,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1w3fj1oiSW86LoFqpYTxMHf0PbORMTyTrn97YGM1i8Y=
+			wdoQlbwGNw1kjC3/Cx3eYGU6HixWfCNT5dvi8pUtgxU=
 			</data>
 		</dict>
 		<key>Modules/QuanteecPluginBitmovin.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SFNJ3eoKbva+TEUd1D+uJXVV9to0pd3rB3g1UEnk04c=
+			uPymrFO+lfJn2ZZIjt5xOYgcApmIp7trbjfkloY4ikM=
 			</data>
 		</dict>
 		<key>Modules/QuanteecPluginBitmovin.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -104,14 +104,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bTKpPby/VqQWX0yRb7//r6AipmB+XAlva8xwkaUFRDI=
+			yKslSPMP7tugdWO7FPKnLPsKYNBVIQlG4JVu/qNAFII=
 			</data>
 		</dict>
 		<key>Modules/QuanteecPluginBitmovin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u/1dsWjEliPZQU3ed1X6jMVihTUc1FHAUQMmFmmgM3w=
+			vkmBorUyIMmPlZByUIGc+s6Xqk2dYbxYcOuEXuml4ZY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
