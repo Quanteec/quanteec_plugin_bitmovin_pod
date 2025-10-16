@@ -8,9 +8,11 @@
 			<key>BinaryPath</key>
 			<string>QuanteecPluginBitmovin.framework/QuanteecPluginBitmovin</string>
 			<key>LibraryIdentifier</key>
-			<string>tvos-arm64</string>
+			<string>tvos-arm64_6_2</string>
 			<key>LibraryPath</key>
 			<string>QuanteecPluginBitmovin.framework</string>
+			<key>SwiftVersion</key>
+			<string>6.2</string>
 			<key>SupportedArchitectures</key>
 			<array>
 				<string>arm64</string>
@@ -22,9 +24,11 @@
 			<key>BinaryPath</key>
 			<string>QuanteecPluginBitmovin.framework/QuanteecPluginBitmovin</string>
 			<key>LibraryIdentifier</key>
-			<string>ios-arm64</string>
+			<string>ios-arm64_6_2</string>
 			<key>LibraryPath</key>
 			<string>QuanteecPluginBitmovin.framework</string>
+			<key>SwiftVersion</key>
+			<string>6.2</string>
 			<key>SupportedArchitectures</key>
 			<array>
 				<string>arm64</string>
@@ -36,9 +40,11 @@
 			<key>BinaryPath</key>
 			<string>QuanteecPluginBitmovin.framework/QuanteecPluginBitmovin</string>
 			<key>LibraryIdentifier</key>
-			<string>tvos-arm64_x86_64-simulator</string>
+			<string>tvos-arm64_x86_64-simulator_6_2</string>
 			<key>LibraryPath</key>
 			<string>QuanteecPluginBitmovin.framework</string>
+			<key>SwiftVersion</key>
+			<string>6.2</string>
 			<key>SupportedArchitectures</key>
 			<array>
 				<string>arm64</string>
@@ -53,9 +59,81 @@
 			<key>BinaryPath</key>
 			<string>QuanteecPluginBitmovin.framework/QuanteecPluginBitmovin</string>
 			<key>LibraryIdentifier</key>
-			<string>ios-arm64_x86_64-simulator</string>
+			<string>ios-arm64_x86_64-simulator_6_2</string>
 			<key>LibraryPath</key>
 			<string>QuanteecPluginBitmovin.framework</string>
+			<key>SwiftVersion</key>
+			<string>6.2</string>
+			<key>SupportedArchitectures</key>
+			<array>
+				<string>arm64</string>
+				<string>x86_64</string>
+			</array>
+			<key>SupportedPlatform</key>
+			<string>ios</string>
+			<key>SupportedPlatformVariant</key>
+			<string>simulator</string>
+		</dict>
+		<dict>
+			<key>BinaryPath</key>
+			<string>QuanteecPluginBitmovin.framework/QuanteecPluginBitmovin</string>
+			<key>LibraryIdentifier</key>
+			<string>tvos-arm64_6_1_2</string>
+			<key>LibraryPath</key>
+			<string>QuanteecPluginBitmovin.framework</string>
+			<key>SwiftVersion</key>
+			<string>6.1</string>
+			<key>SupportedArchitectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>SupportedPlatform</key>
+			<string>tvos</string>
+		</dict>
+		<dict>
+			<key>BinaryPath</key>
+			<string>QuanteecPluginBitmovin.framework/QuanteecPluginBitmovin</string>
+			<key>LibraryIdentifier</key>
+			<string>ios-arm64_6_1_2</string>
+			<key>LibraryPath</key>
+			<string>QuanteecPluginBitmovin.framework</string>
+			<key>SwiftVersion</key>
+			<string>6.1</string>
+			<key>SupportedArchitectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>SupportedPlatform</key>
+			<string>ios</string>
+		</dict>
+		<dict>
+			<key>BinaryPath</key>
+			<string>QuanteecPluginBitmovin.framework/QuanteecPluginBitmovin</string>
+			<key>LibraryIdentifier</key>
+			<string>tvos-arm64_x86_64-simulator_6_1_2</string>
+			<key>LibraryPath</key>
+			<string>QuanteecPluginBitmovin.framework</string>
+			<key>SwiftVersion</key>
+			<string>6.1</string>
+			<key>SupportedArchitectures</key>
+			<array>
+				<string>arm64</string>
+				<string>x86_64</string>
+			</array>
+			<key>SupportedPlatform</key>
+			<string>tvos</string>
+			<key>SupportedPlatformVariant</key>
+			<string>simulator</string>
+		</dict>
+		<dict>
+			<key>BinaryPath</key>
+			<string>QuanteecPluginBitmovin.framework/QuanteecPluginBitmovin</string>
+			<key>LibraryIdentifier</key>
+			<string>ios-arm64_x86_64-simulator_6_1_2</string>
+			<key>LibraryPath</key>
+			<string>QuanteecPluginBitmovin.framework</string>
+			<key>SwiftVersion</key>
+			<string>6.1</string>
 			<key>SupportedArchitectures</key>
 			<array>
 				<string>arm64</string>

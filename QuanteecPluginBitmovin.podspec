@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "QuanteecPluginBitmovin"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "QuanteecPluginBitmovin."
 
   spec.homepage     = "http://google.com"
