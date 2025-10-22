@@ -1,6 +1,0 @@
-framework module QuanteecPluginBitmovin {
-  umbrella header "QuanteecPluginBitmovin.h"
-  export *
-
-  module * { export * }
-}
