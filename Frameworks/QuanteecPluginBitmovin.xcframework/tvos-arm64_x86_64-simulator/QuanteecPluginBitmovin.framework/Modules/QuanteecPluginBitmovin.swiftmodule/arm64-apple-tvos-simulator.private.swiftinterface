@@ -1,0 +1,39 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-module-flags: -target arm64-apple-tvos26.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 6 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -module-name QuanteecPluginBitmovin
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
+import BitmovinPlayer
+import BitmovinPlayerCore
+import Foundation
+import QuanteecCore
+@_exported import QuanteecPluginBitmovin
+import Swift
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@objc public class QuanteecPlugin : ObjectiveC.NSObject, BitmovinPlayerCore.PlayerListener {
+  public init(player: any BitmovinPlayerCore.Player)
+  @objc deinit
+  @objc nonisolated public func onEvent(_ event: any BitmovinPlayerCore.Event, player: any BitmovinPlayerCore.Player)
+  public func cleanup()
+  public func getResolutions() -> [Swift.String]
+  public func activateP2P(activated: Swift.Bool)
+  public func activateQuanteec(activated: Swift.Bool)
+  public func setMaxUploadPercent(value: Swift.Double)
+  public func getEnergySavedInCO2g() -> Swift.Double
+  public func getEnergySavedInLight() -> Swift.Double
+  public func getEnergySavedInWatercL() -> Swift.Double
+  public func getEnergySavedInWh() -> Swift.Double
+  public func getEnergySavedReceivedInWh() -> Swift.Double
+  public func getEnergySavedSentInWh() -> Swift.Double
+  public func getGreenScore() -> Swift.Double
+  public func getDataCDN() -> Swift.Int64
+  public func getDataPeer() -> Swift.Int64
+  public func getDataSent() -> Swift.Int64
+  public func getP2PPercent() -> Swift.Double
+  public func getPeerConnected() -> Swift.Int
+}
+extension QuanteecPluginBitmovin.QuanteecPlugin : QuanteecCore.AnalyticsManagerProtocol {
+  public func getPrebufferingDuration() -> Foundation.TimeInterval
+  public func getLatency() -> Swift.Double
+}
